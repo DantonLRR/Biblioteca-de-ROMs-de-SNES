@@ -1,0 +1,4 @@
+Para executar o arquivo, ultilizar o Dev++, com o código aberto apertar F9 e F11 respectivamente.
+Descrição:
+
+Um sistema para cadastro de ROMs de NSES. No controle é possível cadastrar roms, editar ROMs já cadastradas, excluir ROMs, Consultar ROMs com nome ou Códigos cadastrados, Consulta de titulo e de código e Consulta de Todas ROMs.
